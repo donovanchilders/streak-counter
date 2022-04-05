@@ -1,4 +1,3 @@
-**tests**
+__tests__
 jest.config.cjs
 .github
-.vscode
