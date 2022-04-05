@@ -10,7 +10,8 @@
     "default": "./dist/index.modern.js"
   },
   "main": "./dist/index.cjs",
-  "module": "./dist/index.umd.js",
+  "module": "./dist/index.module.js",
+  "unpkg": "./dist/index.umd.js",
   "scripts": {
     "build": "microbundle",
     "dev": "microbundle watch",
